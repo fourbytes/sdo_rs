@@ -1,6 +1,6 @@
 [package]
 name = "sdo"
-version = "0.3.1"
+version = "0.3.2"
 edition = "2021"
 description = "An unofficial implementation of Iress' SDO format."
 repository = "https://github.com/fourbytes/sdo-rs"
