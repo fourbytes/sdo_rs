@@ -3,7 +3,7 @@ name = "sdo"
 version = "0.3.2"
 edition = "2021"
 description = "An unofficial implementation of Iress' SDO format."
-repository = "https://github.com/fourbytes/sdo-rs"
+repository = "https://github.com/fourbytes/sdo_rs"
 license = "MIT"
 readme = "../../README.md"
 
