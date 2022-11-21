@@ -2,7 +2,7 @@
 [![MIT](https://img.shields.io/crates/l/sdo?style=for-the-badge)](https://choosealicense.com/licenses/mit/) [![Crates.io](https://img.shields.io/crates/v/sdo?style=for-the-badge)](https://crates.io/crates/sdo) [![docs.rs](https://img.shields.io/badge/docs.rs-sdo-rs?style=for-the-badge)](https://docs.rs/sdo)
 
 ## Overview
-This is a work in progress implementation of Iress' SDO protocol which is used by Viewpoint and some of their other trading software. It has been reverse engineered from the Viewpoint web client. It's far from complete and still in early stages, but it is a functional encoder/decoder.
+This is a work in progress implementation of Iress' SDO format which is used by Viewpoint and some of their other trading software. It has been reverse engineered from the Viewpoint web client. It's experimental, but it is a functional encoder/decoder.
 
 This is an unofficial project and is **not supported** by Iress. Any use of this project is subject to your own risk.
 
